@@ -1,0 +1,3 @@
+# kivy depends on various SDL2 development packages, so install those first
+Cython==0.21.2
+Kivy
